@@ -1,0 +1,7 @@
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\bin\Debug\GridSearch.exe.config
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\bin\Debug\GridSearch.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\bin\Debug\GridSearch.pdb
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\obj\Debug\GridSearch.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\obj\Debug\GridSearch.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\obj\Debug\GridSearch.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\GridSearch\GridSearch\obj\Debug\GridSearch.pdb
